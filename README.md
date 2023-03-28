@@ -1,0 +1,1 @@
+Este é um projeto exemplo em HTML e CSS, com foco em um site do WhatsApp Web
